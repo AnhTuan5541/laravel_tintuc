@@ -1,0 +1,20 @@
+body{
+    padding-top: 40px;
+}
+.content{
+    padding-top: 15px;
+}
+small{
+    color: rgb(84, 228, 185);
+    font-size: 25px;
+}
+h1{
+    color: rgb(125, 64, 206);
+}
+footer{
+    height: 40px;
+    line-height: 40px;
+}
+/* h1{
+    color: rgb(240, 38, 72);
+} */
